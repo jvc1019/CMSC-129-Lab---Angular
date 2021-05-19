@@ -1,3 +1,6 @@
+This is an Angular Crash Course project by Traversy Media on the following link: https://www.youtube.com/watch?v=Fdf5aTYRW0E
+explicitly followed by Jayvee B. Castañeda, a 3rd year B.S. in Computer Science student from UPV.
+
 # AngularCrashTodolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
