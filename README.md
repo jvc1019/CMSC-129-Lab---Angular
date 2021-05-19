@@ -1,3 +1,5 @@
+# Hello Ma'am Almie!!! I only realized just now that I did not update the remote repository here, and only after doing the React Crash Course. I have updated it now, so I'm hoping for your kind consideration.
+
 This is an Angular Crash Course project by Traversy Media on the following link: https://www.youtube.com/watch?v=Fdf5aTYRW0E
 explicitly followed by Jayvee B. Castañeda, a 3rd year B.S. in Computer Science student from UPV.
 
